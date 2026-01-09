@@ -18,9 +18,6 @@ A static frontend clone of the YouTube desktop homepage. This project was built 
     * `position: absolute/relative` for timestamps and tooltips.
     * Block vs. Inline-block element management.
 
-## 📸 Screenshots
-
-*(You can upload a screenshot of your webpage here to show people what it looks like)*
 
 ## 📚 Learnings
 
